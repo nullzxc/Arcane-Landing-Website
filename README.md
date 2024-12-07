@@ -11,10 +11,10 @@ This project draws inspiration from various sources to deliver a unique experien
   Development techniques and best practices were guided by tutorials from [JavaScript Mastery](https://www.youtube.com/@javascriptmastery).
 
 - **League of Legends' Arcane Team**  
-  The narrative and artistic direction are influenced by the creators of *Arcane*, including co-creators Christian Linke and Alex Yee, and the animation studio Fortiche Production. :contentReference[oaicite:0]{index=0}
+  The narrative and artistic direction are influenced by the creators of *Arcane*, including co-creators Christian Linke and Alex Yee, and the animation studio Fortiche Production. 
 
 - **Stromae and Pomme**  
-  Musical elements are inspired by the works of Stromae and Pomme, who contributed to the *Arcane* Season 2 soundtrack. :contentReference[oaicite:1]{index=1}
+  Musical elements are inspired by the works of Stromae and Pomme, who contributed to the *Arcane* Season 2 soundtrack.
 
 ---
 
